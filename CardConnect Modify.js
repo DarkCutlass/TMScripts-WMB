@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CardConnect Modify
 // @namespace    http://tampermonkey.net/
-// @version      2024-01-11
+// @version      2024-01-14
 // @description  try to take over the world!
 // @author       You
 // @match       *://b2b.wmbird.com/dancik/om/app-mgr/order.jsp*
