@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         CardConnect Modify
 // @namespace    http://tampermonkey.net/
-// @version      2024-01-14
-// @description  try to take over the world!
-// @author       You
+// @version      2024-01-12
+// @description  Overrides CardConnect in Navigator to NO Beep and NO Confirm prompt.
+// @author       Mystery Person
 // @match       *://b2b.wmbird.com/dancik/om/app-mgr/order.jsp*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wmbird.com
 // @grant        none
 // ==/UserScript==
-/*! Order Management - 2023-05-11 08:05:40 */
+
 !function($, Promise) {
     $App.Module("CardConnect", {
         defaults: {
