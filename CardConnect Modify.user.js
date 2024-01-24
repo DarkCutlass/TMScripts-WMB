@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CardConnect Modify
 // @namespace    http://tampermonkey.net/
-// @version      2024-01-20
+// @version      2024-01-24
 // @description  Overrides CardConnect in Navigator to NO Beep and NO Confirm prompt.
 // @author       Mystery Person
 // @match       *://b2b.wmbird.com/dancik/om/app-mgr/order.jsp*
