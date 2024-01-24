@@ -2,7 +2,7 @@
 // @name        NAVButtons
 // @description Add various buttons to Navigator with functions
 // @match       *://b2b.wmbird.com/dancik/om/app-mgr/order.jsp*
-// @version      2024-01-23
+// @version      2024-01-24
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wmbird.com
 // @grant       GM_addStyle
 // ==/UserScript==
